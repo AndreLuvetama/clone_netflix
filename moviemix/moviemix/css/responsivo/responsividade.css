@@ -5,7 +5,20 @@
     }
     .botao{
         margin-top: 5px;
-        width: 300;   
+        width: 300px;   
+    }
+    .assistir-filme{
+        display: flex;
+        flex-direction: column;
+
+    }
+    iframe{
+        width: 450px;
+        height: 300px;
+    }
+    .infoFilme{
+        width: 100%;
+        
     }
 
 }
@@ -16,3 +29,4 @@
         width: 70%;    
     }
 }
+
